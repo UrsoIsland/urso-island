@@ -1,0 +1,34 @@
+{
+	"bowtie_purple": {
+		"x": 0,
+		"y": 0
+	},
+	"bubblegum": {
+		"x": 95,
+		"y": 0
+	},
+	"gloves_white": {
+		"x": 190,
+		"y": 0
+	},
+	"necklace_red": {
+		"x": 285,
+		"y": 0
+	},
+	"propeller_green": {
+		"x": 380,
+		"y": 0
+	},
+	"stick_honey": {
+		"x": 475,
+		"y": 0
+	},
+	"sunglasses_black": {
+		"x": 570,
+		"y": 0
+	},
+	"tophat_black": {
+		"x": 665,
+		"y": 0
+	}
+}

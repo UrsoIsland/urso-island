@@ -1,0 +1,12 @@
+# Tests
+tests.js
+
+# Node.js modules
+node_modules/
+
+# flines thing
+old_urso/
+
+# Legacy servers
+flines-server.js
+elegant_server.js

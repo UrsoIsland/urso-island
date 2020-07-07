@@ -1,0 +1,17 @@
+{
+  "name": "urso-island",
+  "version": "0.1.0",
+  "description": "Urso Island server, client and moderation tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "compression": "^1.7.4",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0",
+    "playfab-sdk": "^2.47.200518",
+    "socket.io": "^2.3.0"
+  }
+}

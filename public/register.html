@@ -1,0 +1,58 @@
+<html lang="en">
+	<head>
+		<!-- Keywords, favicon, title, etc -->
+		<title>Sign-up | Urso Island</title>
+		<meta name="keywords" content="Urso Island, Urso, urso, Island, island, Bear Island, Bear, bear, UltraDEVs, ultradevs, Ultradevs, flines, Craity, Flines, craity, ultradevs urso island" />
+		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+		<link rel="icon" type="image/png" sizes="32x32" href="./media/favicon-32x32.png" />
+		<link rel="icon" type="image/png" sizes="96x96" href="./media/favicon-96x96.png" />
+		<link rel="icon" type="image/png" sizes="16x16" href="./media/favicon-16x16.png" />
+
+		<!-- Facebook -->
+		<meta property="og:url" content="https://ursoisland.herokuapp.com" />
+		<meta property="og:title" content="Urso Island" />
+		<meta property="og:description" content="Urso Island is a new game created by independent developers, and backed by UltraDEVs, in hopes to create a safe virtual world of bears inspired by other MMOs." />
+		<meta property="og:image" content="/media/icon_150.png" />
+
+		<!-- Twitter -->
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:creator" content="@UrsoIsland" />
+		<meta property="og:url" content="https://ursoisland.herokuapp.com" />
+		<meta property="og:title" content="Urso Island" />
+		<meta property="og:description" content="Urso Island is a new game created by independent developers, and backed by UltraDEVs, in hopes to create a safe virtual world of bears inspired by other MMOs." />
+		<meta property="og:image" content="/media/icon_150.png" />
+
+		<!-- Fancy stuff -->
+		<link rel="stylesheet" href="/media/style.css" />
+	</head>
+
+	<body>
+		<center>
+			<div>
+				<h1>Urso Island</h1>
+				<img src="./media/icon_150.png">
+			</div>
+			
+			<div id="error-div"></div>
+			<form id="signup-form">
+				<input id="username" type="text" class="input1" maxlength="32" placeholder="Username" required />
+				<input id="email" type="email" class="input1" maxlength="64" placeholder="Email" autocomplete="username" required />
+				<input id="password" type="password" class="input2" placeholder="Password" autocomplete="new-password" required />
+				<input id="signup-button" type="submit" class="button-up" value="Create an account"></input>
+				<a class="link" href="#" id="cancel">Cancel</a>
+			</form>
+			<div class="box">
+				<a class="box-text">By creating an account in Urso Island you agree with its <a class="link" href="/terms.html">Terms and Conditions</a><a  class="box-text"> and agree to follow our <a class="link" href="/rules.html">rules</a><a class="box-text">.</a>
+			</div>
+			<span>Copyright 2020 The Urso Island Team and Community.</span>
+			<br />
+			<span><a class="a" rel="license" href="/license.html">Licensing</a></span>
+
+			<script src="https://download.playfab.com/PlayFabClientApi.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js"></script>
+			<script src="/js/config.js"></script>
+			<script src="/js/signup.js"></script>
+		</center>
+	</body>
+</html>

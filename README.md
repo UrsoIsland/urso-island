@@ -37,11 +37,11 @@ All the other features are hardcoded in JavaScript or contained in the `/media/`
  + Game: Gear items.
  + Security: Penetration testing.
 
-**WARNING: This game is potentially insecure, as there were no security tests.**
+**WARNING: This game is potentially insecure, since there were no security tests.**
 
 ## Licensing
 The Urso Island client source code is licensed under the [Apache License version 2.0](https://github.com/UrsoIsland/urso-island/blob/master/LICENSE.apache) (Apache-2.0).
 
-he Urso Island server source code is licensed under the [GNU General Public License 2.0](https://github.com/UrsoIsland/urso-island/blob/master/LICENSE.gpl) (GPL-2.0).
+The Urso Island server source code is licensed under the [GNU General Public License 2.0](https://github.com/UrsoIsland/urso-island/blob/master/LICENSE.gpl) (GPL-2.0).
 
 The Urso Island visual assets and documentation are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0).

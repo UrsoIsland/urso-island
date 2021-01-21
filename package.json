@@ -12,6 +12,6 @@
     "express": "^4.17.1",
     "helmet": "^3.22.0",
     "playfab-sdk": "^2.47.200518",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
